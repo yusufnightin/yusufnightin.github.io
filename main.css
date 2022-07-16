@@ -33,3 +33,15 @@
     opacity: 0.7;
 }
 
+.box {
+  border: 5px solid purple;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 250px;
+  height: 150px;
+}
+
+.alternate {
+  box-sizing: border-box;
+}
